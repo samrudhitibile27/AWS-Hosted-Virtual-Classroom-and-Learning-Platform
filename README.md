@@ -1,1 +1,0 @@
-# AWS-Hosted-Virtual-Classroom-and-Learning-Platform
